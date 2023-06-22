@@ -117,3 +117,7 @@ main {
   padding: 0 1rem;
   cursor: pointer;
 }
+
+.icon-share {
+  color: #4ac700;
+}
