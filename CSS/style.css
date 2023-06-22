@@ -65,7 +65,7 @@ main {
   height: 100px;
   display: flex;
   justify-content: space-between;
-  background-color: rgb(86, 86, 86);
+  background-color: #222222;
 }
 
 .zoom-setting {
@@ -97,7 +97,7 @@ main {
 .zoom-btn {
   color: red;
   border: none;
-  background-color: rgb(183, 183, 183);
+  background-color: #4a4a4a;
   padding: 0 1rem;
   cursor: pointer;
 }
