@@ -61,6 +61,34 @@ main {
 
 /* FOOTER */
 
-footer {
+.footer-container {
   height: 100px;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(86, 86, 86);
+}
+
+.zoom-setting {
+  display: flex;
+  justify-content: space-between;
+  /* margin: 0 0.5rem; */
+}
+
+.zoom-col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
+}
+
+.zoom-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
+}
+
+.zoom-col > i {
+  font-size: x-large;
 }
