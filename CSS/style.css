@@ -58,3 +58,9 @@ main {
   left: 0;
   bottom: 0;
 }
+
+/* FOOTER */
+
+footer {
+  height: 100px;
+}
