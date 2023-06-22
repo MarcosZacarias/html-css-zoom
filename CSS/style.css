@@ -39,7 +39,7 @@ header {
 
 main {
   width: 100vw;
-  height: calc(100vh - 60px - 100px);
+  height: calc(100vh - 60px - 60px);
   overflow: auto;
 }
 
@@ -65,7 +65,7 @@ main {
 /* FOOTER */
 
 .footer-container {
-  height: 100px;
+  height: 60px;
   display: flex;
   justify-content: space-between;
   background-color: #222222;
