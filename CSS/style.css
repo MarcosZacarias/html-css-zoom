@@ -33,6 +33,18 @@ header {
   height: 60px;
   display: flex;
   justify-content: flex-end;
+  /* align-items: flex-start; */
+}
+
+.header-container {
+  margin: 0.5rem 0.2rem;
+}
+
+.header-label {
+  background-color: #484849;
+  margin: 0.5rem;
+  padding: 0.2rem;
+  border-radius: 5px;
 }
 
 /* MAIN */
