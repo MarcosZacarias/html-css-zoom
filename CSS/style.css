@@ -40,10 +40,10 @@ header {
 main {
   width: 100vw;
   height: calc(100vh - 60px - 100px);
+  overflow: auto;
 }
 
 .row {
-  overflow: auto;
   justify-content: space-between;
   flex-wrap: wrap;
 }
@@ -51,7 +51,7 @@ main {
 .card {
   position: relative;
   flex-basis: calc(90% / 7);
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 .card-label {
